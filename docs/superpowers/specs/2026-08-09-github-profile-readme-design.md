@@ -31,8 +31,9 @@ The profile should also state that the author has a master’s degree in softwar
 ## Visual and technical direction
 
 - Use GitHub-flavored Markdown with lightweight HTML only where it improves layout.
-- Use a restrained visual hierarchy: one strong title, short paragraphs, compact project tables/cards, and consistent labels.
-- Use technology badges only when they improve scanability. Avoid badge walls.
+- Use a restrained GitHub-native visual hierarchy inspired by the supplied examples: one strong opening block, short paragraphs, compact project cards, technology icon rows, and consistent section dividers.
+- Use technology badges or icons only in grouped rows that communicate real engineering domains. Avoid badge walls and decorative stacks.
+- Add a small, hand-authored engineering signal row near the hero, such as `systems tooling`, `game infrastructure`, `engine work`, and `open source`. Do not use generated vanity metrics.
 - Do not use animated GIFs, visitor counters, snake graphs, memes, generic greetings, or decorative noise.
 - Do not add GitHub stats unless they communicate something more useful than the project descriptions. Current public profile metrics do not justify a stats block.
 - Do not add external screenshots or banners unless a stable, public asset exists. The README must remain fast to load and easy to maintain.
