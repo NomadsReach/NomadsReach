@@ -46,7 +46,7 @@ The profile should also state that the author has a master’s degree in softwar
 - Public repositories visible on the profile: `BehaviorGraphStudio`, `framework-F4-Conversion`, `Fallout-Anomaly`, `opt-out-lists`, and `mod-lists`.
 - `BehaviorGraphStudio` README describes a standalone C# viewer/editor for Fallout 4 `.hkx` behavior, character, project, skeleton, and animation files, with graph editing, validation, and safe saving.
 - `framework-F4-Conversion` README describes `PrismaUI_F4` as an F4SE plugin using Ultralight to render HTML/CSS/JavaScript overlays in Fallout 4, with C++ APIs, input routing, focus management, and old-gen/next-gen support.
-- `Fallout-Anomaly` points readers to the current guide at `https://fallenworld.nexus/guide`.
+- `Fallout-Anomaly` points readers to the Fallen World documentation, currently available at `https://fallenworld.nexus/docs/intro`.
 - Recent public activity includes Behavior Graph Studio editing and animation work, PrismaUI Fallout 4 VR/runtime work, and ongoing Fallout Anomaly releases and metadata updates.
 
 ## Acceptance criteria

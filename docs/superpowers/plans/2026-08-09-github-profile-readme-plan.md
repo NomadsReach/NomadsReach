@@ -14,7 +14,7 @@
 - Do not use generic greetings, visitor counters, snake graphs, memes, flashy animations, or vanity stats.
 - Make the software-engineering and game-design identity clear in the first screenful.
 - Mention the master’s degree in software engineering exactly as user-provided, without inventing an institution or graduation date.
-- Link only verified public destinations: the NomadsReach profile, BehaviorGraphStudio, framework-F4-Conversion, Fallout-Anomaly, and the Fallout Anomaly guide.
+- Link only verified public destinations: the NomadsReach profile, BehaviorGraphStudio, framework-F4-Conversion, Fallout-Anomaly, and the Fallen World documentation.
 - Represent FO4RecordEditor, Prisma UI, GodotCK/engine work, and Fallen World as active engineering areas when no verified public repository link is available.
 - Keep the document fast to load, readable in GitHub dark mode, and maintainable as project links change.
 
@@ -81,7 +81,7 @@ Use a two-column HTML table or equivalent compact layout with three linked proje
 </table>
 ```
 
-Describe Behavior Graph Studio as a C# standalone viewer/editor for Fallout 4 Havok behavior files, including graph editing, validation, animation data inspection, and safe `.hkx` saves. Describe PrismaUI as a C++/F4SE conversion embedding Ultralight so mod authors can build HTML/CSS/JavaScript overlays with input and focus handling. Add Fallout Anomaly as a separate project card linked to both its repository and `https://fallenworld.nexus/guide`, describing it as a maintained modlist/distribution project.
+Describe Behavior Graph Studio as a C# standalone viewer/editor for Fallout 4 Havok behavior files, including graph editing, validation, animation data inspection, and safe `.hkx` saves. Describe PrismaUI as a C++/F4SE conversion embedding Ultralight so mod authors can build HTML/CSS/JavaScript overlays with input and focus handling. Add Fallout Anomaly as a separate project card linked to both its repository and `https://fallenworld.nexus/docs/intro`, describing it as a maintained modlist/distribution project.
 
 - [ ] **Step 4: Add technologies and expertise**
 
@@ -137,7 +137,7 @@ for url in \
   'https://github.com/NomadsReach/BehaviorGraphStudio' \
   'https://github.com/NomadsReach/framework-F4-Conversion' \
   'https://github.com/NomadsReach/Fallout-Anomaly' \
-  'https://fallenworld.nexus/guide'; do
+  'https://fallenworld.nexus/docs/intro'; do
   curl -L --fail --silent --show-error --head "$url" >/dev/null || exit 1
 done
 ```
