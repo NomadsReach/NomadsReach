@@ -65,13 +65,13 @@ A Fallout 4 framework for building menus and overlays with web technology, while
 <tr>
 <td width="50%" valign="top">
 
-### [Fallout Anomaly](https://github.com/NomadsReach/Fallout-Anomaly)
+### [Obenseuer Modding Framework](https://github.com/NomadsReach/Obensuer-Modding-Framework)
 
-<sub>Fallout 4 · Modlists · Release work</sub>
+<sub>C# · BepInEx · Harmony · Unity</sub>
 
-A Fallout 4 modlist and guide built around making a large modded setup easier to install, understand, and maintain.
+A modding framework for Obenseuer. It gives mods one shared, documented API for the game's systems, so they don't all patch the same code and break each other.
 
-<a href="https://fallenworld.nexus/docs/intro">Read the guide ↗</a>
+<a href="https://github.com/NomadsReach/Obensuer-Modding-Framework">View project ↗</a>
 
 </td>
 <td width="50%" valign="top">
