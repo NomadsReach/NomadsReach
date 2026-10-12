@@ -41,7 +41,7 @@ I care about making things understandable. If a tool changes something important
 <tr>
 <td width="50%" valign="top">
 
-### [Behavior Graph Studio](https://github.com/NomadsReach/BehaviorGraphStudio)
+### [Behavior Graph Studio](https://github.com/G-A-R-D-E-N/BGS)
 
 <sub>C# · .NET 8 · Havok</sub>
 
@@ -52,7 +52,7 @@ A desktop editor for Fallout 4 behavior graphs. Open a `.hkx`, see how it is wir
 </td>
 <td width="50%" valign="top">
 
-### [PrismaUI for Fallout 4](https://github.com/NomadsReach/framework-F4-Conversion)
+### [PrismaUI for Fallout 4](https://github.com/PRISMA-USER-INTERFACE-FRAMEWORK/Fallout-4-Prisma-UI-Framework)
 
 <sub>C++ · F4SE · Ultralight · HTML/CSS/JS</sub>
 
