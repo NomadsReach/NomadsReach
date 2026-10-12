@@ -65,13 +65,13 @@ A Fallout 4 framework for building menus and overlays with web technology, while
 <tr>
 <td width="50%" valign="top">
 
-### [Obenseuer Modding Framework](https://github.com/NomadsReach/Obensuer-Modding-Framework)
+### [Obenseuer Modding Framework](https://github.com/NomadsReach/Obenseuer-Modding-Framework)
 
 <sub>C# · BepInEx · Harmony · Unity</sub>
 
 A modding framework for Obenseuer. It gives mods one shared, documented API for the game's systems, so they don't all patch the same code and break each other.
 
-<a href="https://github.com/NomadsReach/Obensuer-Modding-Framework">View project ↗</a>
+<a href="https://github.com/NomadsReach/Obenseuer-Modding-Framework">View project ↗</a>
 
 </td>
 <td width="50%" valign="top">
